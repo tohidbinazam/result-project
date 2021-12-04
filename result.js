@@ -1,4 +1,4 @@
-// let name = prompt(`Give your name`);
+let name = prompt(`Give your name`);
 let roll = Number(prompt(`Give your Roll`));
 
 let bn = Number(prompt(`Give your bn marks`));
