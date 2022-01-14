@@ -30,7 +30,7 @@ function Cgpa(){
     }
     this.gread = function(number){
 
-        let greRes;
+        // let greRes;
         if( number >= 0 && number < 33){
             greRes = `F`;
         }
